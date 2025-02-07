@@ -1,3 +1,7 @@
+## Update to UE5
+
+I really liked the functionality of this plugin, so I figured I'd give a shot at updating it. I moved the logic into an EditorUtilityActor, replaced some deprecated nodes, and rebuilt the plugin for UE 5.4. Should work for any version of UE5, but I won't be testing as 5.4 is what I am using for my project at the moment.
+
 # Greebler
 ## UE4 & Unity plugin to automatically add detail in the nooks and crannies of your scene
 
